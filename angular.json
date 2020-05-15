@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularAuth"
+    }
+  },
+  "defaultProject": "AngularAuth",
+  "cli": {
+    "analytics": "bd464ec8-2fc3-4d5c-96ee-843d6d18ee8e"
+  }
 }
